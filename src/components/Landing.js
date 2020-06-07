@@ -26,7 +26,7 @@ const Landing = ({ config }) => {
       <Paper style={{ padding: "40px" }}>
         <Hero>
           <div style={{ display: "inline-block", maxWidth: "80%"}}>
-            <p>be perfect</p>
+            <p>feel good</p>
           </div>
         </Hero>
         <Divider style={{ margin: "40px 0" }}/>
